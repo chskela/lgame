@@ -1,2 +1,1 @@
-# lgame
-L-game
+# L-game

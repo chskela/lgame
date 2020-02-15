@@ -11,10 +11,23 @@ body {
 }
 
 .container {
+  width: 500px;
   padding-top: 50px;
   margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
 }
 
 .name {
+  color: #ffffff;
+  padding: 10px;
+  margin: 0;
+  background-color: #2E4559;
   text-align: center;
+}
+
+.canvas {
+  margin: 0 auto;
 }
